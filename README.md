@@ -36,15 +36,15 @@ The results of using the detection module have shown promise with the utilizatio
 ### Visualization
 <div align="center">
   <td><img src=https://i.ibb.co/44x03D9/Design-sem-nome.png></td>
-  <p> Detection of representative lanes and navigable areas - UFES Loop </p>
+  <p> Fig. 1 - Detection of representative lanes and navigable areas - UFES Loop </p>
 </div>
 
 <div align="center">
   <td><img src=YOLOPv2/data/video2.gif></td>
-  <p> Detection of representative lanes and navigable areas - LUME</p>
+  <p> Fig. 2 - Detection of representative lanes and navigable areas - LUME</p>
 </div>
 
-However, it is evident that the model faces challenges in detecting areas where lane markings are not clear, as illustrated in Figure 1. Conversely, the detection improves significantly in sharper areas, as demonstrated in Figure 2.
+However, it is evident that the model faces challenges in detecting areas where lane markings are not clear, as illustrated in Figure 2. Conversely, the detection improves significantly in sharper areas, as demonstrated in Figure 1.
 
 
 
