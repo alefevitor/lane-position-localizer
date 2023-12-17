@@ -44,7 +44,7 @@ The results of using the detection module have shown promise with the utilizatio
   <p> Detection of representative lanes and navigable areas - LUME</p>
 </div>
 
-
+However, it is evident that the model faces challenges in detecting areas where lane markings are not clear, as illustrated in Figure 1. Conversely, the detection improves significantly in sharper areas, as demonstrated in Figure 2.
 
 
 
